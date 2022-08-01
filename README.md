@@ -3,7 +3,7 @@ Pytorch implementation of Potential Relation Aware Knowledge Graph Embeddings.
 
 This codebase contains PyTorch implementation of the paper:
 
-> Supervise the Blurry Entities: Potential Relation Aware Knowledge Graph Embeddings. 
+> Supervise the Blurry Entities: Potential Relation Aware Knowledge Graph Embeddings.  
 > Jin Jiang, Mohan Li.
 
 ## Installation 
@@ -33,7 +33,7 @@ Available datasets are:
 
 ## Acknowledge
 
-This code is based on the OpenKE project[code](https://github.com/thunlp/OpenKE).
+This code is based on the OpenKE project [code](https://github.com/thunlp/OpenKE).
 
 The code is based on [DualE](https://github.com/Lion-ZS/DualE).
 
